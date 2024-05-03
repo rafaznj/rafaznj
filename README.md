@@ -16,6 +16,6 @@ Tenho pouca experiência na área de programação, mas, minha paixão pela tecn
 
 # 𝗖𝗢𝗡𝗧𝗔𝗧𝗢
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaznj/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafaznj/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@rafaznj/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rafaelsenabarreto@gmail.com)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:black,100:black&height=120&section=footer"/>
