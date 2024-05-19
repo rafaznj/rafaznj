@@ -1,7 +1,7 @@
 # 𝗦𝗢𝗕𝗥𝗘 𝗠𝗜𝗠
 Olá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />! Meu nome é Rafael Sena <br/>
 
-Tenho pouca experiência na área de programação, mas, minha paixão pela tecnologia e pela resolução de problemas é imensa. Estou constantemente aprendendo e buscando novos desafios para aprimorar minhas habilidades. <br/>
+Tenho pouca experiência na área de programação, mas, minha paixão pela tecnologia é imensa. Estou constantemente aprendendo e buscando novos desafios para aprimorar minhas habilidades. <br/>
 <br/> Estou determinado a fazer a diferença e contribuir em diversos projetos. Se sua empresa está em busca de um talento jovem e comprometido, estou pronto para fazer parte do seu time e agregar valor com minha energia e vontade de aprender.
 # 𝗛𝗔𝗕𝗜𝗟𝗜𝗗𝗔𝗗𝗘S
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
