@@ -3,7 +3,7 @@
 
 <p>👋 Olá! Meu nome é Rafael Sena, sou um jovem desenvolvedor em constante aprendizado e evolução, buscando novos desafios para aprimorar minhas habilidades.</p>
 
-- Desenvolvedor
+- Desenvolvedor estudante
 - Habilidades: <code> C++ | HTML | CSS | PHP |...</code>
 - Estudando: <code> JAVA | MySQL |...</code>
 
