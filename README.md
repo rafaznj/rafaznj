@@ -17,5 +17,3 @@ Tenho pouca experiência na área de programação, mas, minha paixão pela tecn
 # 𝗖𝗢𝗡𝗧𝗔𝗧𝗢
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaznj/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rafaelsenabarreto@gmail.com)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:black,100:black&height=120&section=footer"/>
