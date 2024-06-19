@@ -1,19 +1,9 @@
-# 𝗦𝗢𝗕𝗥𝗘 𝗠𝗜𝗠
-Olá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />! Meu nome é Rafael Sena <br/>
-
-Tenho pouca experiência na área de programação, mas, minha paixão pela tecnologia é imensa. Estou constantemente aprendendo e buscando novos desafios para aprimorar minhas habilidades. <br/>
-<br/> Estou determinado a fazer a diferença e contribuir em diversos projetos. Se sua empresa está em busca de um talento jovem e comprometido, estou pronto para fazer parte do seu time e agregar valor com minha energia e vontade de aprender.
-
-# 𝗛𝗔𝗕𝗜𝗟𝗜𝗗𝗔𝗗𝗘S
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-# 𝗘𝗦𝗧𝗨𝗗𝗔𝗡𝗗𝗢
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-# 𝗖𝗢𝗡𝗧𝗔𝗧𝗢
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaznj/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rafaelsenabarreto@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:rafaelsenabarreto@gmail.com)
+
+<p>👋 Olá! Meu nome é Rafael Sena, sou um jovem programador em constante aprendizado e evolução, buscando novos desafios para aprimorar minhas habilidades.</p>
+
+- 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗮𝗱𝗼𝗿 @?
+- 𝗛𝗮𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲𝘀: <code>C++ | HTML | CSS | PHP |...</code>
+- 𝗘𝘀𝘁𝘂𝗱𝗮𝗻𝗱𝗼: <code>JAVA | MySQL |...</code>
+
