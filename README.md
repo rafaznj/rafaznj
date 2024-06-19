@@ -7,3 +7,4 @@
 - Habilidades: <code> C++ | HTML | CSS | PHP |...</code>
 - Estudando: <code> JAVA | MySQL |...</code>
 
+<hr>
