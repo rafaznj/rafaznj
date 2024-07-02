@@ -2,6 +2,6 @@
 
 
 Olá! Meu nome é Rafael, eu sou um jovem desenvolvedor em constante aprendizado e evolução, buscando novos desafios para aprimorar minhas habilidades e aprendizados na área da programação.
-- 👨‍💻 Habilidades: `C++ | HTML | CSS | PHP |...`
-- 📚 Estudando: `Java | SQL | MySQL |...`
-- 📧 E-mail para contato: rafaelsenabarreto@gmail.com
+- 👨‍💻 Habilidades: <code>**C++ | HTML | CSS | PHP |...**</code>
+- 📚 Estudando: <code>**Java | SQL | MySQL |...**</code>
+- 📧 E-mail para contato: <code>**rafaelsenabarreto@gmail.com**</code>
