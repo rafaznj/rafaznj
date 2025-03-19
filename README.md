@@ -3,6 +3,6 @@
 Olá! Meu nome é Rafael, eu sou um jovem desenvolvedor em constante aprendizado e evolução, buscando novos desafios para aprimorar minhas habilidades e aprendizados na área da programação. 
 - Habilidades: <code>**C++ | HTML | CSS | PHP |...**</code>
 
-- Estudando: <code>**Java | SQL | MySQL |...**</code>
+- Estudando: <code>**Java | JavaScript | NodeJS | TypeScript | React | SQL | MySQL | PostgreSQL | **</code>
 
 - E-mail para contato: <code>**rafaelsena.contact@gmail.com**</code>
