@@ -1,9 +1,5 @@
 <h4><code>Olá! Meu nome é Rafael, eu sou um jovem desenvolvedor em constante aprendizado e evolução, buscando novos desafios para aprimorar minhas habilidades e aprendizados na área da programação.</code></h4>
-
-<br>
-
 <h3><code>Habilidades:</code><h3>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="15" />
@@ -21,8 +17,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-
-<br>
 
 <h3><code>Estudando:</code></h3>
 
