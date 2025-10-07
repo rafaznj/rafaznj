@@ -1,10 +1,8 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaznj/)
-
-<code>Olá! Meu nome é Rafael, eu sou um jovem desenvolvedor em constante aprendizado e evolução, buscando novos desafios para aprimorar minhas habilidades e aprendizados na área da programação.</code>
+<h3><code>Olá! Meu nome é Rafael, eu sou um jovem desenvolvedor em constante aprendizado e evolução, buscando novos desafios para aprimorar minhas habilidades e aprendizados na área da programação.</code></h2>
 
 <br>
 
-<code>Habilidades:</code>
+<h3><code>Habilidades:</code><h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -26,7 +24,7 @@
 
 <br>
 
-<code>Estudando:</code>
+<h3><code>Estudando:</code></h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
