@@ -22,5 +22,5 @@
 **Contato:**
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=&link=https://www.linkedin.com/in/rafaznj/)](https://www.linkedin.com/in/rafaznj/)
-[![GMAIL](https://img.shields.io/badge/GMAIL-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:rafaelsena.contact@gmail.com)](mailto:rafaelsena.contact@gmail.com)
+[![GMAIL](https://img.shields.io/badge/rafaelsena.contact@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:rafaelsena.contact@gmail.com)](mailto:rafaelsena.contact@gmail.com)
 
