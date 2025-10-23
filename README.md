@@ -1,4 +1,4 @@
-<h4><code>Olá! Meu nome é Rafael, eu sou um jovem desenvolvedor em constante aprendizado e evolução, buscando novos desafios para aprimorar minhas habilidades e aprendizados na área da programação.</code></h4>
+<h4><code>Olá! Sou o Rafael, desenvolvedor em constante aprendizado. Tenho curiosidade por tudo que envolve tecnologia e busco sempre crescer com cada novo desafio.</code></h4>
 
 **Habilidades:**
 
