@@ -8,7 +8,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E34F26?style=flat&logo=git&logoColor=white)
-![GITHUB](https://img.shields.io/badge/GITHUB-100000?style=flat&logo=github&logoColor=white)
 
 **Estudando:**
 
