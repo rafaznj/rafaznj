@@ -1,4 +1,4 @@
-###### 👨🏽‍💻 ```Estagiário em Desenvolvimento Full Stack @CEPEDI```
+##### 👨🏽‍💻 ```Estagiário em Desenvolvimento Full Stack @CEPEDI```
 Finalizando o curso técnico integrado em Informática pelo IFBA, dedicado ao desenvolvimento de software, ao aprimoramento contínuo em programação e motivado por desafios que unem lógica, criatividade e construção de soluções eficientes.
 
 </br>
