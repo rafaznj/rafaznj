@@ -12,6 +12,6 @@ Finalizando o curso técnico integrado em Informática pelo IFBA, dedicado ao de
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 
-Entre em contato comigo: <a href="mailto:rafaelsena.contact@gmail.com" target="__blank">rafaelsena.contact@gmail.com</a>
+Entrar em contato: <a href="mailto:rafaelsena.contact@gmail.com" target="__blank">rafaelsena.contact@gmail.com</a>
