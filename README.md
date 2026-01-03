@@ -1,4 +1,4 @@
-## 👨🏽‍💻 **Rafael Sena**
+## 👨🏽‍💻
 
 ```Estagiário em Desenvolvimento Full Stack @CEPEDI```
 
