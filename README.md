@@ -1,26 +1,11 @@
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="25" height="25" align="center"> <b>`Desenvolvedor Full Stack`<b>
 
-<p align="left"> 
-  👋 Olá, eu sou <b>Rafael Sena</b>, dedicado ao desenvolvimento de software, em constante aprimoramento na programação.
-</p>
 
-<p align="left">
-  💼 <b>Desenvolvedor Full Stack.</b>
-</p>
+Olá, eu sou Rafael Sena. Atualmente estou focado em evoluir minhas habilidades em desenvolvimento de software e construir soluções eficientes.
 
-💻 Habilidades:
-<p align="left">
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,nest,postgres,git)](https://skillicons.dev)
 
- [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,nest,git,github)](https://skillicons.dev)
-</p>
+Entre em contato comigo:
 
-<p align="left">
-  ⬇️ Entre em contato comigo:
-</p>
-
-<p align="left">
-  <a href="mailto:rafaelsena.contact@gmail.com" title="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:rafaelsena.contact@gmail.com" alt="Gmail"/></a>
-  
-  <a href="https://www.linkedin.com/in/rafaznj/" title="LinkedIn" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaznj/" alt="LinkedIn"/></a>
-</p>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/rafaznj/)](#)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&link=mailto:rafaelsena.contact@gmail.com)](#)
