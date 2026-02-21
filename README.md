@@ -1,17 +1,26 @@
-##### 👨🏽‍💻 ```Estagiário em Desenvolvimento Full Stack @CEPEDI```
-Finalizando o curso técnico integrado em Informática pelo IFBA, dedicado ao desenvolvimento de software, ao aprimoramento contínuo em programação e motivado por desafios que unem lógica, criatividade e construção de soluções eficientes.
 
-</br>
+<p align="left"> 
+  👋 Olá, eu sou <b>Rafael Sena</b>, dedicado ao desenvolvimento de software, em constante aprimoramento na programação.
+</p>
 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
+<p align="left">
+  💼 <b>Desenvolvedor Full Stack.</b>
+</p>
 
-Entrar em contato: <a href="mailto:rafaelsena.contact@gmail.com" target="__blank">rafaelsena.contact@gmail.com</a>
+💻 Habilidades:
+<p align="left">
+
+ [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,nest,git,github)](https://skillicons.dev)
+</p>
+
+<p align="left">
+  ⬇️ Entre em contato comigo:
+</p>
+
+<p align="left">
+  <a href="mailto:rafaelsena.contact@gmail.com" title="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:rafaelsena.contact@gmail.com" alt="Gmail"/></a>
+  
+  <a href="https://www.linkedin.com/in/rafaznj/" title="LinkedIn" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaznj/" alt="LinkedIn"/></a>
+</p>
