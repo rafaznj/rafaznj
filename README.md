@@ -1,9 +1,12 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="25" height="25" align="center"> <b>`Desenvolvedor Full Stack`<b>
 
+Olá, eu sou Rafael Sena. Atualmente estou focado em evoluir minhas habilidades em desenvolvimento de software e construir soluções eficientes. 
 
-Olá, eu sou Rafael Sena. Atualmente estou focado em evoluir minhas habilidades em desenvolvimento de software e construir soluções eficientes.
+</br>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,nest,postgres,git)](https://skillicons.dev)
+
+</br>
 
 Entre em contato comigo:
 
