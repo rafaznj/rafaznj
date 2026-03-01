@@ -7,7 +7,7 @@ Olá, eu sou Rafael Sena. Atualmente estou focado em evoluir minhas habilidades 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,nest,postgres,git)](https://skillicons.dev)
 
-Entre em contato comigo: 
+Para entrar em contato comigo: 
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rafaznj/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafaelsena.contact@gmail.com)
