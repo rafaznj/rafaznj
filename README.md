@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" 
-width="25" height="25" align="center"/> <b>Desenvolvedor Full Stack</b>
-
-</br>
+width="23" height="23" align="center"/> <code>Desenvolvedor Full Stack</code>
 
 Olá, eu sou Rafael Sena! Estou focado em evoluir continuamente minhas habilidades técnicas na arquitetura e desenvolvimento de softwares eficientes, enquanto invisto no meu crescimento profissional, aprimorando tanto minhas competências técnicas quanto interpessoais para me tornar um desenvolvedor cada vez mais completo.
 
