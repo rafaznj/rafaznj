@@ -9,6 +9,8 @@ Olá, eu sou Rafael Sena! Estou focado em evoluir continuamente minhas habilidad
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,nest,mysql,postgres,git,github)](https://skillicons.dev)
 
+</br>
+
 Para entrar em contato comigo: 
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rafaznj/)
