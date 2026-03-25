@@ -5,7 +5,7 @@ Ol√°, eu sou Rafael! Estou focado em evoluir continuamente minhas habilidades t√
 
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,nest,mysql,postgres,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,nest,mysql,postgres,git)](https://skillicons.dev)
 
 </br>
 
