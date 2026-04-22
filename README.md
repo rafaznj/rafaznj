@@ -1,11 +1,9 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" 
-width="23" height="23" align="center"/> <code>Desenvolvedor Full Stack</code>
+<code>Desenvolvedor Full Stack</code>
 
 Olá, eu sou Rafael! Estou focado em evoluir continuamente minhas habilidades técnicas na arquitetura e desenvolvimento de softwares eficientes, enquanto invisto no meu crescimento profissional, aprimorando tanto minhas competências técnicas quanto interpessoais para me tornar um desenvolvedor cada vez mais completo.
-
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,nest,mysql,postgres,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nest,postgres,mysql,git)](https://skillicons.dev)
 
 </br>
 
