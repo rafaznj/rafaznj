@@ -1,6 +1,6 @@
 <code>Desenvolvedor Full Stack</code>
 
-Olá, eu sou Rafael! Sou desenvolvedor focado na construção de aplicações web eficientes, escaláveis e bem estruturadas. Possuo formação técnica em Informática e atualmente curso Bacharelado em Sistemas de Informação, onde aprofundo meus conhecimentos em arquitetura de software e desenvolvimento de sistemas.
+Olá, eu sou Rafael! Sou desenvolvedor focado na construção de aplicações web eficientes, escaláveis e bem estruturadas. Possuo formação técnica em Informática e atualmente curso Bacharelado em Sistemas de Informação.
 
 Busco evoluir continuamente minhas habilidades técnicas, aliado ao desenvolvimento de competências interpessoais, com o objetivo de me tornar um profissional completo e preparado para construir soluções relevantes e de impacto.
 
