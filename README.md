@@ -1,6 +1,9 @@
 <code>Desenvolvedor Full Stack</code>
 
-Olá, eu sou Rafael! Estou focado em evoluir continuamente minhas habilidades técnicas na arquitetura e desenvolvimento de softwares eficientes, enquanto invisto no meu crescimento profissional, aprimorando tanto minhas competências técnicas quanto interpessoais para me tornar um desenvolvedor cada vez mais completo.
+Olá, eu sou Rafael! Sou desenvolvedor focado na construção de aplicações web eficientes, escaláveis e bem estruturadas. Possuo formação técnica em Informática e atualmente curso Bacharelado em Sistemas de Informação, onde aprofundo meus conhecimentos em arquitetura de software e desenvolvimento de sistemas.
+
+Busco evoluir continuamente minhas habilidades técnicas, aliado ao desenvolvimento de competências interpessoais, com o objetivo de me tornar um profissional completo e preparado para construir soluções relevantes e de impacto.
+
 </br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nest,postgres,mysql,git)](https://skillicons.dev)
