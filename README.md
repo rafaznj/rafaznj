@@ -6,7 +6,7 @@ Busco evoluir continuamente minhas habilidades técnicas, aliado ao desenvolvime
 
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nest,postgres,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nest,postgres,docker,git)](https://skillicons.dev)
 
 </br>
 
