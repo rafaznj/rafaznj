@@ -1,4 +1,4 @@
-<p>👨🏽‍💻 <code>Desenvolvedor Full Stack</code></p>
+<code>Desenvolvedor Full Stack</code>
 
 Sou focado na construção de aplicações web eficientes, escaláveis e bem estruturadas. Possuo formação técnica em Informática e atualmente curso o Bacharelado em Sistemas de Informação.
 
