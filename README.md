@@ -1,6 +1,6 @@
 ```yaml
 Rafael Sena@rafaznj
-----------------------
+-———————————————————————————————————————————-—-
 Role: Full-Stack Developer
 Education: B.Sc. in Information Systems (In Progress)
 
